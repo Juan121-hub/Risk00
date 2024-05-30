@@ -10,7 +10,7 @@
     "@sap/cds": "^7",
     "express": "^4",
     "@sap/cds-hana": "^2",
-    "@sap/xssec": "^3",
+    "@sap/xssec": "^4",
     "passport": "^0"
   },
   "devDependencies": {
